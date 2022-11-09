@@ -1,3 +1,5 @@
+<h1 align="center"> ONLY FORKED SO THAT I CAN ADD MY CUSTOM CONFIG AS A SUBMODULE AND THEN HAVE THIS REPO AS A SUBMODULE OF MY DOTFILES REPO </h1>
+
 <h1 align="center">NvChad</h1>
 
 <div align="center">
